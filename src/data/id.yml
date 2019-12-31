@@ -395,8 +395,8 @@ test-tutorial:
 
 libraries:
   Libraries: "Pustaka"
-  core-libraries: "Core Libraries"
-  community-libraries: "Community Libraries"
+  core-libraries: "Pustaka Inti"
+  community-libraries: "Pustaka Komunitas"
   libraries-created-by: "Created by:"
   p5.sound: "p5.sound extends p5 with Web Audio functionality including audio input, playback, analysis and synthesis."
   p5.accessibility: "p5.accessibility makes the p5 canvas more accessible to people who are blind and visually impaired."
