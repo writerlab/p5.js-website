@@ -445,10 +445,10 @@ libraries:
   using-a-library3: ") adalah bagian dari distribusi p5.js, sementara library yang berkontribusi dikembangkan, dimiliki, dan dikelola oleh anggota komunitas."
   using-a-library4: "Untuk memasukkan library kedalam sketsa, tautkan ke file HTML (dibawah tautan file p5.js). Contohnya seperti ini:"
   create-your-own-title: "Buat library/pustaka-mu sendiri"
-  create-your-own1: "p5.js welcomes libraries contributed by others! Check out the"
-  create-your-own2: "libraries tutorial"
-  create-your-own3: "for more specifics about how to create one."
-  create-your-own4: "If you have created a library and would like to have it included on this page, submit this form!"
+  create-your-own1: "p5.js menyambut library yang disumbangkan oleh orang lain! Cek"
+  create-your-own2: "tutorial pustaka/library"
+  create-your-own3: "untuk lebih spesifik tetang cara membuatnya."
+  create-your-own4: "Jika Anda telah membuat library dan ingin menyertakannya dihalaman ini, kirimkan formulir ini!"
 
 community:
   community-title: "Komunitas"
